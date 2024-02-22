@@ -1,0 +1,23 @@
+#navbar{
+    border:1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.catagory ul{
+    display: flex;
+    text-decoration: none;
+    gap: 5px;
+    
+}
+.button{
+    border: 1px solid blue;
+    padding: 5px;
+    border-radius: 5px;
+    /* margin-top: -1px; */
+}
+/* .navbar_catagory ul{
+    
+} */
