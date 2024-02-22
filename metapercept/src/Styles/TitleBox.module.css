@@ -1,0 +1,5 @@
+#titlebox{
+    border:1px solid red;;
+    text-align: center;
+    background-color:linear-gradient(to bottom ,red,green);
+}
